@@ -2,6 +2,10 @@
 
 Animated wormhole and black-hole GIF enhancement for the Stargate Retro web interface.
 
+<img width="242" height="229" alt="Original_Wormhole" src="https://github.com/user-attachments/assets/2f572690-dd58-448b-880f-6d743ada7184" /> 
+<img width="232" height="216" alt="GIF_Wormhole" src="https://github.com/user-attachments/assets/45c580e8-03a8-49d6-8ab0-e2c5e23ce416" />
+
+
 ## Install
 
 Clone or unzip this add-on into `/home/pi`, then run:
