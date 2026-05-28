@@ -2,8 +2,6 @@
 
 Animated wormhole and black-hole GIF enhancement for the Stargate Retro web interface.
 
-This repository is private while it is being checked and verified.
-
 ## Install
 
 Clone or unzip this add-on into `/home/pi`, then run:
@@ -34,11 +32,8 @@ sudo systemctl restart stargate.service
 
 ## Attribution and originality
 
-Original base project: StargateProject SG1 software from the BuildAStargate/Jordan/Kristian/Jonnerd project lineage.
-
-Retro UI source credit: The Retro pages being patched come from the Polklabs Retro UI project:
-https://github.com/polklabs/stargate-retro
-
+Original base project: https://github.com/polklabs/stargate-retro
+The Retro pages being patched come from the Polklabs Retro UI project:
 matelv-x/Codex modification: this repository adds the wormhole/black-hole GIF overlay behavior and packaging for the SG1 v4 Retro web interface.
 
 How much is copied or changed: Medium Retro UI asset/HTML/CSS overlay.
