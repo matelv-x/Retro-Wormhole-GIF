@@ -31,7 +31,9 @@ sudo systemctl restart stargate.service
 ## What it changes
 
 - Adds `wormhole.gif` and `blackhole.gif`.
-- Patches Retro `dial.html`, `dial9.html`, and related CSS.
+- Updates only its own marked fragments inside Retro `dial.html`, `dial9.html`, related CSS, and `dial.js`.
+- Preserves Ring Symbols and other additions already present in those files.
+- Removes only its own fragments during restore instead of replacing whole files.
 - Supports `--keep-crosshair` and `--dry-run`.
 
 ## Attribution and originality
