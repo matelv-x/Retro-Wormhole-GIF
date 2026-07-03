@@ -1,5 +1,7 @@
 # Retro Wormhole GIF
 
+[![Downloads](https://img.shields.io/github/downloads/matelv-x/Retro-Wormhole-GIF/total?label=downloads)](https://github.com/matelv-x/Retro-Wormhole-GIF/releases)
+
 Animated wormhole and black-hole GIF enhancement for the Stargate Retro web interface.
 
 <img width="242" height="229" alt="Original_Wormhole" src="https://github.com/user-attachments/assets/2f572690-dd58-448b-880f-6d743ada7184" /> 
