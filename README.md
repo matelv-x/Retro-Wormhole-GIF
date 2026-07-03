@@ -43,5 +43,3 @@ sudo systemctl restart stargate.service
 Original base project: https://github.com/polklabs/stargate-retro
 The Retro pages being patched come from the Polklabs Retro UI project:
 matelv-x/Codex modification: this repository adds the wormhole/black-hole GIF overlay behavior and packaging for the SG1 v4 Retro web interface.
-
-How much is copied or changed: Medium Retro UI asset/HTML/CSS overlay.
